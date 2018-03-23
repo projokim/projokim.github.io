@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Sweet Dream"
 title_separator          : "-"
 name                     : "JuWon Kim"
 description              : "An amazing website."
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Proo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I can do anything."
+  location         : "YBigTa"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
