@@ -1,11 +1,7 @@
 ---
-layout: post
-title:  "hohohohohohoohohoho!"
-date:   2018-03-23 15:43:59
-author: JuWon Kim
-categories: Jekyll
-tags:	jekyll welcome
-cover:  "/assets/instacode.png"
+title: "Welcome to Jekyll!"
+date: 2017-10-20 08:26:28 -0400
+categories: jekyll update
 ---
 
 Oh~ Yeah~
