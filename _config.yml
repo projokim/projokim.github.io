@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Sweet Dream"
 title_separator          : "-"
 name                     : "JuWon Kim"
-description              : "An amazing website."
+description              : "뀨"
 url                      : # the base hostname & protocol for your site e.g. "https://projokim.github.io"
 baseurl                  : # the subpath of your site, e.g. ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -75,8 +75,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+#twitter:
+  #username               :
 facebook:
   username               :
   app_id                 :
