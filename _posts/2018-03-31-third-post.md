@@ -1,9 +1,9 @@
-
 ---
 title: "Coursera-Batch Normalization"
-date: 2018-3-31 11:26:28 -0400
+date: 2018-03-31 11:26:28 -0400
 categories: coursera DeepLearningSpecialization
 ---
+
 # Batch Normalization
 
 ## Purpose of Batch normalization
